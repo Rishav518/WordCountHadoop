@@ -1,4 +1,4 @@
-package org.codewitharjun;
+package org.arkay;
 
 import java.io.IOException;
 import java.util.StringTokenizer;
